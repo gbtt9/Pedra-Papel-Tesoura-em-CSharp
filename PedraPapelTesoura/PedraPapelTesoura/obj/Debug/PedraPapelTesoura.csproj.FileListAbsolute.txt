@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Desktop\Pedra,Papel,Tesoura\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.exe.config
+C:\Users\Guilherme\Desktop\Pedra,Papel,Tesoura\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.exe
+C:\Users\Guilherme\Desktop\Pedra,Papel,Tesoura\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.pdb
+C:\Users\Guilherme\Desktop\Pedra,Papel,Tesoura\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\Pedra,Papel,Tesoura\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\Desktop\Pedra,Papel,Tesoura\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Pedra,Papel,Tesoura\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.exe
+C:\Users\Guilherme\Desktop\Pedra,Papel,Tesoura\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.pdb
